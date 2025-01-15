@@ -1,2 +1,1 @@
-# R-LifeExpectancy
-Life Expectancy in the Year 2010
+For my Multivariable Analysis for Biostatisticians course, I collaborated in a team of four to define research objectives using a World Health Organization dataset on life expectancy and potential risk factors. I analyzed data in R to address multicollinearity issues and select key variables for model fitting. I also built a linear regression model and classification tree in R on the prepared data, correcting for model diagnostics and potential confounding factors. The results and report were presented as a team. 
